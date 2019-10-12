@@ -1,0 +1,19 @@
+
+#main-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+    
+}
+#bg-color{
+    background-color: rgb(206, 192, 192);
+    height: 100%;
+}
+@media only screen and (max-width : 768px) {
+    h3{
+        font-size: .9rem;
+    }
+}
