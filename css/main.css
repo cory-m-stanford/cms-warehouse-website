@@ -9,11 +9,12 @@
     
 }
 #bg-color{
-    background-color: rgb(206, 192, 192);
+    /* background-color: rgb(206, 192, 192); */
+    background-color: rgb(169, 171, 199);
     height: 100%;
 }
-@media only screen and (max-width : 768px) {
+@media only screen and (max-width : 900px) {
     h3{
-        font-size: .9rem;
+        font-size: .95rem;
     }
 }
